@@ -1,0 +1,107 @@
+insert 48
+insert 44
+search 25
+insert 20
+insert 28
+insert 48
+delete 63
+delete 4
+search 79
+insert 53
+insert 90
+delete 15
+insert 37
+delete 29
+search 21
+insert 62
+search 38
+insert 13
+insert 36
+sort
+insert 59
+delete 77
+search 69
+delete 7
+search 100
+insert 36
+insert 49
+delete 37
+search 81
+insert 76
+insert 42
+delete 24
+sort
+insert 11
+delete 15
+search 92
+insert 31
+height
+insert 7
+search 41
+delete 48
+insert 87
+insert 17
+delete 100
+search 59
+insert 65
+insert 78
+delete 93
+insert 30
+search 55
+delete 76
+sort
+insert 14
+insert 61
+search 17
+delete 10
+height
+insert 84
+search 74
+delete 22
+insert 83
+insert 55
+delete 50
+insert 60
+delete 32
+search 89
+insert 8
+height
+insert 12
+insert 54
+delete 58
+insert 23
+search 5
+delete 49
+search 66
+insert 94
+insert 98
+sort
+insert 9
+delete 46
+search 1
+insert 70
+insert 16
+delete 39
+search 97
+insert 99
+height
+delete 82
+insert 77
+search 2
+delete 80
+search 34
+insert 29
+insert 47
+delete 96
+sort
+search 85
+insert 81
+insert 27
+delete 91
+insert 72
+search 71
+delete 67
+insert 73
+insert 40
+height
+insert 95
